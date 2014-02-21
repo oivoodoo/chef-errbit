@@ -1,0 +1,12 @@
+export PATH=`pwd`/bin:$PATH
+export PATH=`pwd`/../bin:$PATH
+
+# place here settings to run on the setuping the box
+export PROJECT_NAME=errbit
+export DO_CLIENT_ID=<client-id>
+export DO_API_KEY=<api-key>
+export DO_REGION="New York 2"
+export DO_MEMORY_WEB="1GB"
+export DO_PRIVATE_NETWORKING=true
+export PUBLIC_KEY='<ssh public key for accessing the server>'
+

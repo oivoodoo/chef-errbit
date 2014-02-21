@@ -1,0 +1,8 @@
+[
+    "vagrant-berkshelf",
+    "vagrant-notify",
+    "vagrant-digitalocean",
+    "vagrant-omnibus",
+    "vagrant-aws"
+]
+
